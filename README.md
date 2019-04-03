@@ -1,5 +1,5 @@
 # Add Greek Glyphs to Work-Sans Font 
-I would like to add support for Greek Glyphs for the font work-sans.
+Addition of Greek Glyphs for the Open Source font family Work-Sans.
 ## Introduction 
 Work-Sans is a 9 weight typeface family based on early Grotesques. The fonts at the extreme side of the weights are plrimarily designed for display use. Everything is simple and optimised for screen resolutions and web readability.
 
@@ -8,7 +8,9 @@ Black, Bold, Heavy, Light, Paragraph, Sans, Grotesque, Ultra Light
 
 ## Preliminary Work
 
-[Screenshots]( GSoC2019-GreekFonts/Documentation/images/font-example.png)
+![Sample170827](https://github.com/An0u/GSoC2019-GreekFonts/blob/master/Documentation/images/font-example.png?raw=true)
+
+[Screenshots](/Documentation/images/font1.png)
 
 ## Timeline Summary
 
