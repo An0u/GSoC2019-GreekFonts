@@ -1,19 +1,22 @@
 # GSoC2019-GreekFonts
 # Add Greek Glyphs to Work-Sans Font 
-## Timeline for the Project
+I would like to add support for Greek Glyphs for the font work-sans.
+## Introduction 
+Work-Sans is a 9 weight typeface family based on early Grotesques. The fonts at the extreme side of the weights are plrimarily designed for display use. Everything is simple and optimised for screen resolutions and web readability.
+## Proposal
 
-**May 30 - June 6** 
+## Preliminary Work
+
+## Timeline Summary
+
+**May 30 - June 29** 
 
 Explorations of forms and research 
 
-**June 7 - June 21**
+**July 3 - July 27**
 
-**June 21 - June 29**
+**July 31 - August 28**
 
-**July 3 - July 14**
-
-**July 17 - July 21**
-
-**July 24 - July 27**
-
+**JAugust 29**
+**Finish**
 
