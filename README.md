@@ -8,7 +8,7 @@ Black, Bold, Heavy, Light, Paragraph, Sans, Grotesque, Ultra Light
 ## Proposal
 
 ## Preliminary Work
-
+[Contribution guidelines for this project](Documentation/images/font-example.png)
 ## Timeline Summary
 
 **May 30 - June 29** 
