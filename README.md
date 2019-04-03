@@ -3,6 +3,8 @@
 I would like to add support for Greek Glyphs for the font work-sans.
 ## Introduction 
 Work-Sans is a 9 weight typeface family based on early Grotesques. The fonts at the extreme side of the weights are plrimarily designed for display use. Everything is simple and optimised for screen resolutions and web readability.
+
+Black, Bold, Heavy, Light, Paragraph, Sans, Grotesque, Ultra Light
 ## Proposal
 
 ## Preliminary Work
