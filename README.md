@@ -8,7 +8,7 @@ Black, Bold, Heavy, Light, Paragraph, Sans, Grotesque, Ultra Light
 
 ## Preliminary Work
 
-![Screenshot](https://github.com/An0u/GSoC2019-GreekFonts/upload/master/Documentation/images/fonts.png?raw=true)
+![Screenshot](https://github.com/An0u/GSoC2019-GreekFonts/blob/master/Documentation/images/fonts.png?raw=true)
 
 ## Timeline Summary
 
