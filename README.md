@@ -1,4 +1,3 @@
-# GSoC2019-GreekFonts
 # Add Greek Glyphs to Work-Sans Font 
 I would like to add support for Greek Glyphs for the font work-sans.
 ## Introduction 
@@ -8,7 +7,9 @@ Black, Bold, Heavy, Light, Paragraph, Sans, Grotesque, Ultra Light
 ## Proposal
 
 ## Preliminary Work
-[Contribution guidelines for this project](Documentation/images/font-example.png)
+
+[Screenshots]( GSoC2019-GreekFonts/Documentation/images/font-example.png)
+
 ## Timeline Summary
 
 **May 30 - June 29** 
