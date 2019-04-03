@@ -8,9 +8,7 @@ Black, Bold, Heavy, Light, Paragraph, Sans, Grotesque, Ultra Light
 
 ## Preliminary Work
 
-![Sample170827](https://github.com/An0u/GSoC2019-GreekFonts/blob/master/Documentation/images/font-example.png?raw=true)
-
-[Screenshots](/Documentation/images/font1.png)
+![Screenshot](https://github.com/An0u/GSoC2019-GreekFonts/upload/master/Documentation/images/fonts.png?raw=true)
 
 ## Timeline Summary
 
@@ -22,6 +20,6 @@ Explorations of forms and research
 
 **July 31 - August 28**
 
-**JAugust 29**
+**August 29**
 **Finish**
 
